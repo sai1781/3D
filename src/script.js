@@ -49,7 +49,7 @@ const donutMesh = new THREE.Mesh()
 fontLoader.load('/fonts/helvetiker_regular.typeface.json', (font) => {
     // console.log(font)
     const textgeometry = new TextGeometry(
-        "Sai Web developer", {
+        "Vaishanvi Web Developer", {
         font: font,
         size: 0.5,
         height: 0.2,
